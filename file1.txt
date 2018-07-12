@@ -1,2 +1,3 @@
 This file for merging conflict
 editing in master
+editing in feature branch
